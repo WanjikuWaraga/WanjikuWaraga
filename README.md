@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @WanjikuWaraga
-- 👀 I’m interested in web development
+- 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...you can start a fire with ice
 
 <!---
 WanjikuWaraga/WanjikuWaraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
