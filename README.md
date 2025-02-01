@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...email: wanjikuwaraga@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...you can start a fire with ice
 
